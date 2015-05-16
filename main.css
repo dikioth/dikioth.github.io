@@ -1,11 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Gruvea Test</title>
-</head>
-<body>
-	<h1>FREE VIDEOCALLS</h1>
-	<iframe width="640" height="440" src="https://www.gruveo.com/embed/" frameborder="0" allowfullscreen></iframe>
-</body>
-</html>
+.philosopher{
+	font-family: Tangerine;
+	font-size: 60px;
+}
+body{
+	background-color: #fe5f55;
+}
+.color1{
+	color:#4C3549;
+}
+.quitar-float{
+	float:none;
+}
