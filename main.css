@@ -1,13 +1,7 @@
-.philosopher{
-	font-family: Tangerine;
-	font-size: 60px;
+.font-logo{
+font-family: 'IM Fell DW Pica', serif;
+font-size: 50px
 }
-body{
-	background-color: #fe5f55;
-}
-.color1{
-	color:#4C3549;
-}
-.quitar-float{
-	float:none;
+html{
+	background: ur:(bg.jpg);
 }
