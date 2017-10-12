@@ -1,0 +1,56 @@
+
+
+body{
+  background-color: #455a64;
+  text-align: center;
+  color: white;
+}
+
+.title{
+  text-align: center;
+  font-family: arial;
+  font-size: 50px;
+}
+
+#temperature{
+  font-size: 100px;
+  padding: 0 0 0 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#weather-icon{
+  font-size: 150px;
+  padding: 0 0 0 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#weather-text{
+  font-size: 50px;
+  padding: 20px 0 10px 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+.input{
+  font-size: 50px;
+  text-align: right;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.input>i{
+  position: absolute;
+  top: 55px;
+  right: 40px;
+  padding-top: 0;
+}
+
+.input>p{
+  position: absolute;
+  top:0px;
+  right:110px;
+  padding-top: 0;
+}

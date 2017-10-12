@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Weather App</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons-wind.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <div>
+      <div class="input toggle-onoff" unselectable="on">
+        <input type="hidden" name="onoff" class="" value="True">
+        <i class="fa" aria-hidden="true"></i>
+        <p id = "nameDegree"> </p>
+      </div>
+    <h1 class="title">Now in</h1>
+    <i id = "weather-icon" class ="wi wi-rain"></i>
+    <p id = "weather-text"></p>
+  </div>
+    <p id = "temperature"></p>
+</div>
+  </body>
+  <script   src="https://code.jquery.com/jquery-3.2.1.js"   integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="   crossorigin="anonymous"></script>
+  <script type="text/javascript" src="script.js"></script>
+</html>
