@@ -1,0 +1,12 @@
+body{
+  background-color: #4db6ac;
+}
+
+ul> li>a{
+  display: block;
+  color:transparent;
+  height: 50px;
+  width: 65%;
+  position:absolute;
+  background-color:transparent;
+}
