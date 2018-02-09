@@ -8,4 +8,4 @@
 
 ## wikiApp: [Demo](http://dikioth.me/wikiApp/index.html)
 
-## Till Spencer: [click](https://github.com/dikioth/Blogg/blob/master/workout3.md.html)
+## Till Spencer: [click](https://dikioth.github.io/workout3.md.html)
